@@ -1,5 +1,19 @@
 test file 1
 
+
+
+
+
+add the new files into git
+---------------------------
+git add *
+git commit -m 'added the files'
+git push -u origin master
+
+
+
+
+
 push the updates into git
 ---------------------------
 git commit -a -m 'files changed'
