@@ -1,1 +1,6 @@
 test file 1
+
+push the updates into git
+---------------------------
+git commit -a -m 'files changed'
+git push -u origin master
